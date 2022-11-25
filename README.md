@@ -13,6 +13,7 @@
 | R730          | 2*NVIDIA Tesla M60-8G                         |
 | R740*         | NVIDIA Tesla V100-32G + NVIDIA Tesla V100-16G |
 | R740          | 4*NVIDIA Tesla M60-8G                         |
+| CrossAI       | NVIDIA GeForce 4090                           |
 
 ## 校内 SSH 方法
 
